@@ -11,6 +11,10 @@
 
 [![Watch the video](https://github.com/Kevinbui16/HandDraw-Real-Time-Gesture-Based-Drawing-with-AI/blob/main/Hand_detection/image_output.png)](https://youtu.be/bu_Gm72jd2U)
 
+<p align="center">
+  The demo could also be found at: https://youtu.be/bu_Gm72jd2U
+</p>
+
 <p><em>In the demo, you can see a real-time drawing of "I ❤️ U" using hand gestures.</em></p>
 
 <h2>✨ Features</h2>

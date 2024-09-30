@@ -9,7 +9,7 @@
 <p>Check out the demo of <strong>HandDraw</strong> in action below!</p>
 <img src="demo.gif" alt="HandDraw Demo" style="max-width:100%;">
 
-[![Watch the video](https://github.com/Kevinbui16/HandDraw-Real-Time-Gesture-Based-Drawing-with-AI/blob/main/Hand_detection/image_output.png)](https://youtu.be/bu_Gm72jd2U)
+[![Watch the video](https://github.com/Kevinbui16/HandDraw-Real-Time-Gesture-Based-Drawing-with-AI/blob/main/Hand_detection/draw_image.png)](https://www.youtube.com/watch?v=Pw8q8O9CqHE)
 
 <p align="center">
   The demo could also be found at: https://youtu.be/bu_Gm72jd2U
